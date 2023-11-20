@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d07d7c3c.css",
-    "main.js": "/my-app/static/js/main.cdae75ae.js",
-    "static/js/787.d4aba7ab.chunk.js": "/my-app/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.d07d7c3c.css.map": "/my-app/static/css/main.d07d7c3c.css.map",
-    "main.cdae75ae.js.map": "/my-app/static/js/main.cdae75ae.js.map",
-    "787.d4aba7ab.chunk.js.map": "/my-app/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/FFC-random-quote-machine/static/css/main.d07d7c3c.css",
+    "main.js": "/FFC-random-quote-machine/static/js/main.0c2a8aa8.js",
+    "static/js/787.d4aba7ab.chunk.js": "/FFC-random-quote-machine/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/FFC-random-quote-machine/index.html",
+    "main.d07d7c3c.css.map": "/FFC-random-quote-machine/static/css/main.d07d7c3c.css.map",
+    "main.0c2a8aa8.js.map": "/FFC-random-quote-machine/static/js/main.0c2a8aa8.js.map",
+    "787.d4aba7ab.chunk.js.map": "/FFC-random-quote-machine/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d07d7c3c.css",
-    "static/js/main.cdae75ae.js"
+    "static/js/main.0c2a8aa8.js"
   ]
 }
