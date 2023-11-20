@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import './App.scss';
-import COLORS from "./ColorsArray";
+import COLORS from "./ColorsArray.js";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faTwitter} from '@fortawesome/free-brands-svg-icons'
 
